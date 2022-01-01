@@ -22,10 +22,11 @@ I am a final year undergraduate student pursuing Bachelor's in Translation and I
 # Work Experience
 ### Customer Support Specialist
 * *Skywind Group* _October, 2020 - now_
-** Reponding to customers via Skype and email
-** API related concerns
-** User activity check
-** Escalation of unresolved issues to appropriate teams
+  * Reponding to customers via Skype and email
+  * API related concerns
+  * User activity check
+  * Escalation of unresolved issues to appropriate teams
+  * Activity monitoring (Slack, Grafana)
 
 # Education Highlights
 *Minsk State Linguistics University*
